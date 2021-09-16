@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 9f8784df202d83240b86196b1c784667
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box017_Mesh.264_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 91241290072f71e47aab50c9029315c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box018_Mesh.269_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: b1f4b400e75090f429cc65bb70b9034f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box019_Mesh.274_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 138b28afe1344d241ac778a00cde6f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box020_Mesh.279_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 74c509bb4eda96a4aa6d17649325eed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone008_Mesh.265_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 64000e3238412d2428378c619469ee36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone009_Mesh.270_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 362a2ab35597f67439b701b4feaa6dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone010_Mesh.275_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 57bb7a12d57f4f04797ebc3c9c9e9049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone011_Mesh.280_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 75c451aa0147c9c42bb80f5cdef484f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus009_Mesh.266_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 9b0a0daa73cba834f98de00d0da8b9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus010_Mesh.271_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: a752c7339c5f1c9418091badd7eeae7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus011_Mesh.276_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 4f381906d33c9c844ad5667684da8e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus012_Mesh.281_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: c32fd79296e795446aefe31e619920c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: altare001_Mesh.263_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 32e24745c24df944ebad596d09a386f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base007_Mesh.267_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 09dfeb15b8a7dbc4491c75fbbfc7da46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base008_Mesh.272_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: c66d8e5699ec86d42a379a18a7019d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base009_Mesh.277_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 67c4215787324e9429b2e9ca5e853cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base010_Mesh.282_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: bb0c5f92667a0c643b0ec03b04fdc6e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capitello006_Mesh.268_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: a625c104b7e9cd14d8a9cd71d0df937b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capitello007_Mesh.273_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 0687bba97d09843459c2f47e67cd3af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capitello008_Mesh.278_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: ef1305cebd2bcff4f9a79d10b54d2c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capitello009_Mesh.283_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: fb76c238aff04d941bf9906ff3a69a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copertura001_Mesh.284_pietra_chiara_seggio.001Mat
+    second: {fileID: 2100000, guid: 2929e6045162ba04c89df65af5ea76da, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

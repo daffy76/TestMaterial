@@ -1,0 +1,47 @@
+# Blender MTL File: 'capanna.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.031063 0.017401 0.007962
+Ks 0.014286 0.014286 0.014286
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl mura
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.500000 textures/mura_N.png
+map_Kd textures/mura_D.png
+
+newmtl paglia
+Ns 9.645958
+Ka 1.000000 1.000000 1.000000
+Kd 0.368627 0.243137 0.145098
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd textures/paglia.jpg
+
+newmtl pali
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump textures/pali_N.png
+map_Kd textures/pali_D.png

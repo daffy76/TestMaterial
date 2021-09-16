@@ -1,0 +1,156 @@
+# Blender MTL File: 'Nure_Fotogrametria_full.blend'
+# Material Count: 14
+
+newmtl TextureAtlas_1001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1001.png
+
+newmtl TextureAtlas_1002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1002.png
+
+newmtl TextureAtlas_1003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1003.png
+
+newmtl TextureAtlas_1004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1001.png
+
+newmtl TextureAtlas_1005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1005.png
+
+newmtl TextureAtlas_1006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1006.png
+
+newmtl TextureAtlas_1007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1007.png
+
+newmtl TextureAtlas_1008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1008.png
+
+newmtl TextureAtlas_1009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1009.png
+
+newmtl TextureAtlas_1010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1010.png
+
+newmtl TextureAtlas_1011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1011.png
+
+newmtl TextureAtlas_1012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1012.png
+
+newmtl TextureAtlas_1013
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1013.png
+
+newmtl TextureAtlas_1014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ..\\..\\..\\..\\..\\..\\..\\3D Objects\\3dScans\\Nduria\\Texture\\texture_1014.png

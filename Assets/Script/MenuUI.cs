@@ -1,6 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 #if UNITY_EDITOR
@@ -10,18 +7,25 @@ using UnityEditor;
 // Sets the script to be executed later than all default scripts
 // This is helpful for UI, since other things may need to be initialized before setting the UI
 [DefaultExecutionOrder(1000)]
-public class MenuUIHandler : MonoBehaviour
+
+
+public class MenuUI : MonoBehaviour
 {
-    public void SetSceneToLoad()
+    public void NuragheMaterialScene()
     {
+        //SceneManager.LoadScene("Test_NuragheMaterials");
+        SceneManager.LoadScene(2);
+    }
+    public void ChiesaInterniScene()
+    {
+        //SceneManager.LoadScene("Test_ChiesaInterni");
+        SceneManager.LoadScene(3);
+    }
+    public void MapScene()
+    {
+        //SceneManager.LoadScene("NURE");
         SceneManager.LoadScene(1);
     }
-    public void BackHome()
-    {
-        SceneManager.LoadScene(0);
-    }
-
-
     public void Exit()
     {
 #if UNITY_EDITOR
@@ -31,3 +35,4 @@ public class MenuUIHandler : MonoBehaviour
 #endif    
     }
 }
+

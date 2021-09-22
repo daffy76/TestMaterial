@@ -6,17 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/NURE.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Mappa.unity
     guid: a7723ac51fb4cf5499cce2efdfdad83a
   - enabled: 1
-    path: Assets/Scenes/Test_NuragheMaterial.unity
+    path: Assets/Scenes/NuragheMaterial.unity
     guid: 077356b769f1c194295d859860cfdfd0
   - enabled: 1
-    path: Assets/Scenes/Test_ChiesaInterni.unity
+    path: Assets/Scenes/InternoChiesa.unity
     guid: a10b38aecb4e7ad42a150997689f9c5c
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8908851534a519f4e9eadd945c97de73,
       type: 2}

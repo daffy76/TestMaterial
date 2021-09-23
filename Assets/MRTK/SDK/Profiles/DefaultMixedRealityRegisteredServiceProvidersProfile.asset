@@ -13,4 +13,12 @@ MonoBehaviour:
   m_Name: DefaultMixedRealityRegisteredServiceProvidersProfile
   m_EditorClassIdentifier: 
   isCustomProfile: 0
-  configurations: []
+  configurations:
+  - componentType:
+      reference: Microsoft.MixedReality.Toolkit.Extensions.NewService, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    componentName: New Service
+    priority: 0
+    runtimePlatform: 15
+    configurationProfile: {fileID: 11400000, guid: 7ec7abcdd929b984595cfed0b4072cc5,
+      type: 2}

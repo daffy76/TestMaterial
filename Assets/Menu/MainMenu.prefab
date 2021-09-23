@@ -2485,6 +2485,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: VoiceCommand
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: Events.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -3679,17 +3684,17 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[0].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[1].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[2].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -3759,13 +3764,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8308567311933778590}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: NuragheMaterialScene
+      value: TransitionToScene
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -3795,7 +3805,7 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: ChangeScene, Assembly-CSharp
+      value: MenuUI, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -3819,6 +3829,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0,
         type: 3}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: NuragheMaterial
+      objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: Events.Array.data[2].Event.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -4298,6 +4313,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: VoiceCommand
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: Events.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -4314,17 +4334,17 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[0].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[1].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[2].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -4394,13 +4414,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8308567312208924500}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ChiesaInterniScene
+      value: TransitionToScene
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -4430,7 +4455,7 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: ChangeScene, Assembly-CSharp
+      value: MenuUI, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -4454,6 +4479,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0,
         type: 3}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: InternoChiesa
+      objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: Events.Array.data[2].Event.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -5134,13 +5164,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8308567312862927139}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: MapScene
+      value: TransitionToScene
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -5170,7 +5205,7 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: ChangeScene, Assembly-CSharp
+      value: MenuUI, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -5194,6 +5229,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0,
         type: 3}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: DefaultManagerScene
+      objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: Events.Array.data[2].Event.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -5450,17 +5490,17 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[0].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[1].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: profiles.Array.data[2].Themes.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -5530,13 +5570,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 4659928710938779513}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: MapScene
+      value: TransitionToScene
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -5566,7 +5611,7 @@ PrefabInstance:
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: ChangeScene, Assembly-CSharp
+      value: MenuUI, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
@@ -5590,6 +5635,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0,
         type: 3}
+    - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
+        type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Mappa
+      objectReference: {fileID: 0}
     - target: {fileID: 7740934714359965954, guid: e557ce6d38cad7844963d92db3a8ed0b,
         type: 3}
       propertyPath: Events.Array.data[2].Event.m_PersistentCalls.m_Calls.Array.data[0].m_CallState

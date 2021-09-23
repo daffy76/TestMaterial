@@ -15,12 +15,12 @@ C:/Users/david/Desktop/UnityProjects/TestMaterial/TestMaterial
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54416
+57700
 Successfully changed project path to: C:/Users/david/Desktop/UnityProjects/TestMaterial/TestMaterial
 C:/Users/david/Desktop/UnityProjects/TestMaterial/TestMaterial
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 226.05 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 2.78 ms.
+Refreshing native plugins compatible for Editor in 216.81 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 2.58 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/david/Desktop/UnityProjects/TestMaterial/TestMaterial/Assets
@@ -36,44 +36,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003576 seconds.
+Registered in 0.002886 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 256.33 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.16 ms.
+Refreshing native plugins compatible for Editor in 185.04 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.809 seconds
+- Completed reload, in  1.908 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.039895 seconds.
+Registered in 0.014320 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 221.98 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.11 ms.
+Refreshing native plugins compatible for Editor in 162.09 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
 [XR] [Mixed Reality OpenXR Mesh]: RegisterLifecycleProvider.
 [XR] [Mixed Reality OpenXR Input]: RegisterLifecycleProvider.
 [XR] Error loading subsystem: Display (1) (header mismatch?)
 Mono: successfully reloaded assembly
-- Completed reload, in  6.668 seconds
+- Completed reload, in  5.715 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.81 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.38 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
 Unloading 5760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 266.7 MB.
-System memory in use after: 265.3 MB.
+System memory in use before: 266.8 MB.
+System memory in use after: 265.4 MB.
 
 Unloading 2316 unused Assets to reduce memory usage. Loaded Objects now: 5859.
-Total: 12.737200 ms (FindLiveObjects: 1.387700 ms CreateObjectMapping: 0.757200 ms MarkObjects: 5.787900 ms  DeleteObjects: 4.802100 ms)
+Total: 11.427500 ms (FindLiveObjects: 1.058400 ms CreateObjectMapping: 0.666400 ms MarkObjects: 5.411200 ms  DeleteObjects: 4.289200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -88,33 +88,73 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Script/MenuUI.cs
-  artifactKey: Guid(b19fbbe5b5599d8418fbe9c4e295d199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Script/MenuUI.cs using Guid(b19fbbe5b5599d8418fbe9c4e295d199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23233f0df7ad7f760095535f67350d57') in 0.032870 seconds 
-  Import took 0.045112 seconds .
+  path: Assets/UI
+  artifactKey: Guid(a2b2db513d8a02f40ac2323479dafb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(a2b2db513d8a02f40ac2323479dafb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be6195888877741339aa33208002294') in 0.012217 seconds 
+  Import took 0.023018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.194310 seconds.
+  path: Assets/UI/kronoscope_logo_pablo_transp.png
+  artifactKey: Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/kronoscope_logo_pablo_transp.png using Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47292895dafbc511337b0a65076fbb0a') in 0.095669 seconds 
+  Import took 0.107747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.718416 seconds.
+  path: Assets/UI/kronoscope_logo_pablo_transp.png
+  artifactKey: Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/kronoscope_logo_pablo_transp.png using Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b57979de403ab1e1b0dc5ddc2fae20') in 0.006324 seconds 
+  Import took 0.017928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.026765 seconds.
+  path: Assets/UI/kronoscope_logo_pablo_transp.png
+  artifactKey: Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/kronoscope_logo_pablo_transp.png using Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bbed6a7109b1f002d763ea27a6d6280') in 0.007555 seconds 
+  Import took 0.018412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.482228 seconds.
+  path: Assets/UI/kronoscope_logo_pablo_transp.png
+  artifactKey: Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/kronoscope_logo_pablo_transp.png using Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90b5cdf04882f0eff9ff5e4adc24d80') in 0.008561 seconds 
+  Import took 0.019565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.697409 seconds.
+  path: Assets/UI/kronoscope_logo_pablo_transp.png
+  artifactKey: Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/kronoscope_logo_pablo_transp.png using Guid(ace374e38c18d614eb32c99b7eff8483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946a020e8fdb26987fe7003ff000bfba') in 0.008115 seconds 
+  Import took 0.020124 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.019489 seconds.
+Registered in 0.019559 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.87 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
+Refreshing native plugins compatible for Editor in 2.70 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.967 seconds
+- Completed reload, in  4.536 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(3) extendedPlatform(0)
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 2.43 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.14 ms.
-Unloading 5649 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 260.1 MB.
-System memory in use after: 258.7 MB.
+Refreshing native plugins compatible for Editor in 1.98 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 5650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 260.3 MB.
+System memory in use after: 258.9 MB.
 
-Unloading 2520 unused Assets to reduce memory usage. Loaded Objects now: 5866.
-Total: 13.992700 ms (FindLiveObjects: 1.617300 ms CreateObjectMapping: 1.104300 ms MarkObjects: 6.168300 ms  DeleteObjects: 5.100200 ms)
+Unloading 2520 unused Assets to reduce memory usage. Loaded Objects now: 5869.
+Total: 12.447800 ms (FindLiveObjects: 1.232000 ms CreateObjectMapping: 0.733000 ms MarkObjects: 5.223600 ms  DeleteObjects: 5.257200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 

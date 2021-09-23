@@ -5,55 +5,42 @@ using System.IO;
 
 public class MainManager : MonoBehaviour
 {
-    // Start() and Update() methods deleted - we don't need them right now
-
+    //This code enables you to access the MainManager object from any other script.  
     public static MainManager Instance;
-    public Color TeamColor; // new variable declared
+    //This is the static class member declaration.Note the keyword static after the keyword public. This keyword means that the values stored in this class member will be shared by all the instances of that class. 
 
+    //Awake method, is called as soon as the object is created
     private void Awake()
     {
-        // start of new code
+        //  conditional statement to check whether or not Instance is null. The very first time that you launch the Menu scene, no MainManager will have filled the Instance variable. This means it will be null, so the condition will not be met, and the script will continue as you previously wrote it.
         if (Instance != null)
         {
             Destroy(gameObject);
             return;
         }
-        // end of new code
-
+        
         Instance = this;
+        // stores “this” in the class member Instance — the current instance of MainManager. You can now call MainManager.Instance from any other script
         DontDestroyOnLoad(gameObject);
-
-        LoadColor();
     }
 
-    [System.Serializable] //per salvare con json
-    class SaveData // per salvare i dati dell'utente
-    {
-        public Color TeamColor; //il colore che lo user seleziona
-    }
+    public string UserName = "Davide"; // new variable declared
 
-    public void SaveColor() //metodo per salvare il dato
-    {
+
+
+
+     //per salvare con json
+    // per salvare i dati dell'utente
+    
+//lo user che lo user seleziona
+    
+
+        //metodo per salvare il dato
+    
         //creo un'istanza dei dati salvati e riempio la variabile team color
-        SaveData data = new SaveData();
-        data.TeamColor = TeamColor;
 
         // trasformo l'istanza in un json con l'utility, creo json e gli butto dentro data
-        string json = JsonUtility.ToJson(data);
 
         // metodo per scrivere il file, con il path e la variabile da scrivere ovvero json
-        File.WriteAllText(Application.persistentDataPath + "/savefile.json", json);
-    }
 
-    public void LoadColor()
-    {
-        string path = Application.persistentDataPath + "/savefile.json";
-        if (File.Exists(path))
-        {
-            string json = File.ReadAllText(path);
-            SaveData data = JsonUtility.FromJson<SaveData>(json);
-
-            TeamColor = data.TeamColor;
-        }
-    }
 }

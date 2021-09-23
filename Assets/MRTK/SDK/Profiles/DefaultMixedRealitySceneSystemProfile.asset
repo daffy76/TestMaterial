@@ -49,6 +49,12 @@ MonoBehaviour:
     BuildIndex: 2
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0, type: 3}
+  - Name: Magic
+    Path: Assets/Scenes/Magic.unity
+    Included: 1
+    BuildIndex: 4
+    Tag: Untagged
+    Asset: {fileID: 102900000, guid: 13aabab72d3e09b4e80e7a726c7c6f25, type: 3}
   permittedLightingSceneComponentTypes:
   - reference: UnityEngine.Transform, UnityEngine.CoreModule
   - reference: UnityEngine.GameObject, UnityEngine.CoreModule
@@ -98,4 +104,4 @@ MonoBehaviour:
   editorEnforceSceneOrder: 1
   editorManageLoadedScenes: 1
   editorEnforceLightingSceneTypes: 1
-  editorLightingCacheOutOfDate: 0
+  editorLightingCacheOutOfDate: 1

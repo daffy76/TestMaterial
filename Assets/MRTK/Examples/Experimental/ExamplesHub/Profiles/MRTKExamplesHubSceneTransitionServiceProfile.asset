@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   useDefaultProgressIndicator: 1
-  defaultProgressIndicatorPrefab: {fileID: 1993071269674472, guid: 57d2436112e7d424da7e9a8e41c608dc,
+  defaultProgressIndicatorPrefab: {fileID: 1993071269674472, guid: 14fcd3eee0a002247a59d2432a16665c,
     type: 3}
   useFadeColor: 1
   fadeColor: {r: 0, g: 0, b: 0, a: 1}

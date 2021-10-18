@@ -34,19 +34,19 @@ MonoBehaviour:
   - Name: InternoChiesa
     Path: Assets/Scenes/InternoChiesa.unity
     Included: 1
-    BuildIndex: 1
+    BuildIndex: 2
     Tag: Untagged
     Asset: {fileID: 102900000, guid: a10b38aecb4e7ad42a150997689f9c5c, type: 3}
   - Name: Mappa
     Path: Assets/Scenes/Mappa.unity
     Included: 1
-    BuildIndex: 3
+    BuildIndex: 1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: a7723ac51fb4cf5499cce2efdfdad83a, type: 3}
   - Name: NuragheMaterial
     Path: Assets/Scenes/NuragheMaterial.unity
     Included: 1
-    BuildIndex: 2
+    BuildIndex: 3
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 077356b769f1c194295d859860cfdfd0, type: 3}
   - Name: Magic
@@ -103,5 +103,5 @@ MonoBehaviour:
   editorManageBuildSettings: 1
   editorEnforceSceneOrder: 1
   editorManageLoadedScenes: 1
-  editorEnforceLightingSceneTypes: 1
+  editorEnforceLightingSceneTypes: 0
   editorLightingCacheOutOfDate: 1

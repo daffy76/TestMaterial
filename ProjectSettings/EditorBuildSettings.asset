@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Account.unity
     guid: f9d90e2bed720c046a2b33de1caaa374
+  - enabled: 1
+    path: Assets/Scenes/ScenaAnimTest.unity
+    guid: eeb3f0ed53d5d3947a7bd43d6ca941c6
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8908851534a519f4e9eadd945c97de73,
       type: 2}

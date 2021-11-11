@@ -55,6 +55,24 @@ MonoBehaviour:
     BuildIndex: 4
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 13aabab72d3e09b4e80e7a726c7c6f25, type: 3}
+  - Name: ScenaAnim
+    Path: Assets/Scenes/ScenaAnim.unity
+    Included: 1
+    BuildIndex: 5
+    Tag: Untagged
+    Asset: {fileID: 102900000, guid: e56d57d13592d83439814df87f475d26, type: 3}
+  - Name: Account
+    Path: Assets/Scenes/Account.unity
+    Included: 1
+    BuildIndex: 6
+    Tag: Untagged
+    Asset: {fileID: 102900000, guid: f9d90e2bed720c046a2b33de1caaa374, type: 3}
+  - Name: ScenaAnimTest
+    Path: Assets/Scenes/ScenaAnimTest.unity
+    Included: 1
+    BuildIndex: 7
+    Tag: Untagged
+    Asset: {fileID: 102900000, guid: eeb3f0ed53d5d3947a7bd43d6ca941c6, type: 3}
   permittedLightingSceneComponentTypes:
   - reference: UnityEngine.Transform, UnityEngine.CoreModule
   - reference: UnityEngine.GameObject, UnityEngine.CoreModule
